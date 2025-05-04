@@ -288,4 +288,4 @@ with gr.Blocks(css_paths="style.css", theme=gr.themes.Soft()) as demo:
     </div>
     """)
 
-demo.queue(max_size=50).launch()
+app = demo.app
