@@ -86,7 +86,7 @@
 
 ## 📷 Screenshots
 
-> Add your own screenshots here to showcase the UI and results!
+![image](https://github.com/user-attachments/assets/993c1b7e-f195-4a3c-8674-ec1551d2eb8d)
 
 ---
 
